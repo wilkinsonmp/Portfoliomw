@@ -120,6 +120,9 @@ header {
 @media (max-width: 1024px) {
   .framecontainer {
      max-width: 90%;
+    justify-content: center; 
+    align-items: center;
+}
   }}
   @media (max-width: 600px) {
   .framecontainer {
@@ -602,4 +605,5 @@ h2 {
     font-size: 0.8rem;
     opacity: 0.7;
 }
+
 
